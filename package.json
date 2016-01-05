@@ -1,0 +1,23 @@
+{
+  "name": "secondtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrizz2343/SecondTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrizz2343/SecondTest/issues"
+  },
+  "homepage": "https://github.com/Chrizz2343/SecondTest#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "assemble": "~0.4.42"
+  }
+}
